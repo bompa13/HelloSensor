@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloSensor</string>
+    <string name="Accelerometer_button">Accelerometer</string>
+    <string name="Compass_button">Compass</string>
+    <string name="Meny_text">Choose sensor  to test:</string>
+    <string name="Acc_value_text">Accelerometer values:</string>
+    <string name="AccX">AccX</string>
+    <string name="AccY">AccY</string>
+    <string name="AccZ">AccZ</string>
+    <string name="LutningX">LutningX</string>
+
+</resources>
